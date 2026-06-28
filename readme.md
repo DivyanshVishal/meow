@@ -1,0 +1,76 @@
+# 💻 Competitive Programming Practice
+
+This repository contains my solutions to various Competitive Programming problems from different online platforms. The purpose of this repository is to improve my problem-solving skills, strengthen my understanding of algorithms and data structures, and maintain consistency in coding.
+
+## 🚀 Languages Used
+
+- C
+- C++
+- (Add more if you use them, e.g., Python, Java)
+
+## 📂 Repository Structure
+
+```
+├── Codeforces/
+├── CodeChef/
+├── LeetCode/
+├── AtCoder/
+├── CSES/
+└── Others/
+```
+
+Each folder contains solutions organized by platform or contest.
+
+## 🎯 Goals
+
+- Solve problems regularly.
+- Improve algorithmic thinking.
+- Learn new data structures and algorithms.
+- Prepare for coding interviews and programming contests.
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Sorting & Searching
+- Binary Search
+- Recursion
+- Dynamic Programming
+- Greedy Algorithms
+- Graphs
+- Trees
+- Number Theory
+- Bit Manipulation
+- And many more...
+
+## 🛠️ How to Run
+
+For C programs:
+
+```bash
+gcc filename.c -o output
+./output
+```
+
+For C++ programs:
+
+```bash
+g++ filename.cpp -o output
+./output
+```
+
+## 🤝 Contributions
+
+This repository is mainly for my personal practice. However, if you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+## ⭐ Progress
+
+I will continue updating this repository as I solve more problems.
+
+## 📌 Note
+
+The solutions in this repository are written for learning purposes. There may be multiple correct approaches to the same problem, and I may update older solutions as I learn better techniques.
+
+---
+
+Happy Coding! 🚀
